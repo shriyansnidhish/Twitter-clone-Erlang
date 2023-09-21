@@ -161,4 +161,4 @@ A websocket interface for a twitter like engine is successfully implemented with
 <br>• Query tweets by mention, hashtag & by subscribed users A websocket connection is established after registering and redirected to /name/main. Once a user tweeted, all the subscribed users will instantly get in the feed through websockets without any user interaction.
 
 ## Demo Video
-Link: https://drive.google.com/file/d/1b7IjhklJRBHUPl5Cvqjj0Zj0tKpHZgw3/view?usp=share_link
+Link: https://www.youtube.com/watch?v=-qyg5Kw-kng
